@@ -1,0 +1,2 @@
+# DigitalDefense
+DigitalDefense: A **Research Hub** convening leading experts to tackle adversarial synthetic media. Fostering idea exchange, collaboration, and publishing insights to advance digital security and resilience. Help us create a safer and more resilient digital landscape.
